@@ -1,0 +1,11 @@
+{
+  "salt": "6f56ff878d4b4b1fef0c393f60b63173",
+  "iterations": 250000,
+  "check": "afbfa59847837775ba2fca31684b4d58be8ac6d289638bb9b9385fae67adfc34a865dd",
+  "files": [
+    "q1",
+    "q2",
+    "q3",
+    "q4"
+  ]
+}

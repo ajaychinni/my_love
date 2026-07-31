@@ -1,0 +1,8 @@
+# The repo is public, so NO plaintext photo ever gets committed.
+# Originals stay on Ajju's Mac; the web-sized copies are encrypted into
+# Assets/photos/*.enc (safe to publish) by tools/encrypt-photos.mjs.
+Assets/personal_photos/
+Assets/websit_photos/
+Assets/photos/*.jpg
+
+.DS_Store
