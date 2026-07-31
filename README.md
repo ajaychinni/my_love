@@ -1,4 +1,4 @@
-# Aug1 💌
+# aug1 💌
 
 An interactive Happy Girlfriend's Day letter for Srishuu — envelope → love letter → 6-question
 memory quiz (each right answer unlocks a photo) → a "forever?" question where the No button runs
@@ -61,7 +61,7 @@ python3 -m http.server 8000     # then open http://localhost:8000
 
 1. Repo **Settings → General → Change visibility → Public** (free Pages needs a public repo).
 2. **Settings → Pages** → Source: *Deploy from a branch* → Branch `main`, folder `/ (root)` → Save.
-3. Wait ~60s → live at `https://ajaychinni.github.io/Aug1/`.
+3. Wait ~60s → live at `https://ajaychinni.github.io/aug1/`.
 
 ## Photos are encrypted
 
